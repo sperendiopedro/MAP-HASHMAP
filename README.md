@@ -1,0 +1,14 @@
+##MAP AND HASHMAP EXERCISE. 
+
+- CONTENTS ON THE .CSV FILE: 
+Alex Blue,15
+Maria Green,22
+Bob Brown,21
+Alex Blue,30
+Bob Brown,15
+Maria Green,27
+Maria Green,22
+Bob Brown,25
+Alex Blue,31
+
+THE CODE WILL READ THE CONTENT AND RETURN THE TOTAL OF VOTES ON EACH CANDIDATE.
